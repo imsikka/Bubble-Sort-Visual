@@ -4,10 +4,10 @@ This is a simple web application that visualizes the Bubble Sort algorithm. The 
 ## Usage
 To use the application, follow these steps:
 
-Open the index.html file in your web browser.
-Enter a comma-separated list of numbers into the text input field.
-Click the "Sort" button to start the Bubble Sort algorithm.
-The bars representing the numbers will be updated to show each step of the algorithm.
+* Open the index.html file in your web browser.
+* Enter a comma-separated list of numbers into the text input field.
+* Click the "Sort" button to start the Bubble Sort algorithm.
+*The bars representing the numbers will be updated to show each step of the algorithm.
 ## License
 This code is released under the MIT License. You are free to use and modify it for your own purposes, as long as you include the license text in any modified copies of the code.
 
