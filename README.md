@@ -12,4 +12,4 @@ To use the application, follow these steps:
 This code is released under the MIT License. You are free to use and modify it for your own purposes, as long as you include the license text in any modified copies of the code.
 
 ## Credits
-This code was written by [Your Name Here] using HTML, CSS, and JavaScript. It is based on the Bubble Sort algorithm, which was invented by John von Neumann in 1945.
+This code was written by [imsikka] using HTML, CSS, and JavaScript. It is based on the Bubble Sort algorithm, which was invented by John von Neumann in 1945.
