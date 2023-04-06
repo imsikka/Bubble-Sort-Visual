@@ -1,4 +1,4 @@
-# Bubble Sort Visualization(On-going)
+# Bubble Sort Visualization(Completed)
 This is a simple web application that visualizes the Bubble Sort algorithm. The algorithm sorts an array of numbers in ascending order by repeatedly swapping adjacent elements if they are in the wrong order. The visualization shows each step of the algorithm by displaying a bar graph of the array after each comparison and swap.
 
 ## Usage
